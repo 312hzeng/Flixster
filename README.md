@@ -26,8 +26,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://github.com/312hzeng/Flixster/blob/master/walkthrough.gif" width=250><br>
 
 ### Notes
-RecyclerView: Create a dynamic list
-Adapter: ViewHolder, onCreateViewHolder, onBindViewHolder, getItemCount
+- RecyclerView: Create a dynamic list
+- Adapter: ViewHolder, onCreateViewHolder, onBindViewHolder, getItemCount
 
 ### Open-source libraries used
 
