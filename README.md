@@ -65,7 +65,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 - Use AssyncHttpClient to fetch data from API
-- Use API key to get videos from Youtube
+- Use API key to render videos from Youtube
 - Use onClickListener to notify the adaptor when user clicks on the screen
 - Use Intent to transfer data form one screen to another
 
