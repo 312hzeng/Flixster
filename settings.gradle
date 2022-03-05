@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Flixster"
 include ':app'
+include ':app:mylibrary'
+include ':app:libs'
